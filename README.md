@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://swarvy.tistory.com/142">React, 어디까지 컴포넌트를 분리해야 하나?</a>
+        <a href="https://swarvy.tistory.com/142">React, 어디까지 컴포넌트를 분리해야 하는가?(1)</a>
       </td>
       <td><code>react</code></td>
       <td>신현호</td>
@@ -94,29 +94,24 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=5 align="center">4주차<br />(23.05.22 - 23.05.28)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=4 align="center">4주차<br />(23.05.22 - 23.05.28)</th>
+      <td><a href="https://html-jc.tistory.com/657">Server Components</a></td>
+      <td><code>next.js</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/143">React, 어디까지 컴포넌트를 분리해야 하는가?(2)</a></td>
+      <td><code>react</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Middleware-with-Next.js">Middleware with Next.js</a></td>
+      <td><code>next.js</code><code>middleware</code></td>
       <td>이보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>이예슬</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@chee9835/HTML%EC%97%90%EC%84%9C-%ED%83%9C%EA%B7%B8%EB%A5%BC-%EC%95%88-%EB%8B%AB%EC%95%84%EB%8F%84-%EC%98%A4%EB%A5%98%EA%B0%80-%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%9D%B4%EC%9C%A0">HTML에서 태그를 안 닫아도 오류가 나지 않는 이유</a></td>
+      <td><code>html</code></td>
       <td>채희수</td>
     </tr>
     <tr>
