@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Ryan-Dia">
-          <img src="https://avatars1.githubusercontent.com/u/76567238" alt="Ryan-Dia" width="120" />
+        <img src="https://avatars1.githubusercontent.com/u/76567238" alt="Ryan-Dia" width="120" />
       </a>
       <br />
       <a href="https://github.com/Ryan-Dia">강철원</a>
@@ -39,13 +39,6 @@
       <a href="https://github.com/Bori-github">이보리</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leemainsw">
-        <img src="https://avatars.githubusercontent.com/u/48716775?v=4" alt="Leemainsw" width="120" />
-       </a>
-      <br />
-      <a href="https://github.com/Leemainsw">이예슬</a>
-    </td>
-        <td align="center">
       <a href="https://github.com/chee9835">
         <img src="https://avatars.githubusercontent.com/u/100351462" alt="chee9835" width="120" />
       </a>
@@ -59,6 +52,14 @@
 
 ## 주제별 목록
 
+<details>
+  <summary><strong>&nbsp;Computer Science</strong></summary>
+  <ul>
+    <li><a href="https://html-jc.tistory.com/668">파일 시그니처
+</a></li>
+    <li><a href="https://velog.io/@chee9835/Array-Set-List%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C">Array / Set / List는 어떻게 다를까?</a></li>
+  </ul>
+</details>
 <details>
   <summary><strong>&nbsp;HTML</strong></summary>
   <ul>
@@ -86,6 +87,10 @@
     <li><a href="https://swarvy.tistory.com/142">React, 어디까지 컴포넌트를 분리해야 하는가?(1)
 </a></li>
     <li><a href="https://swarvy.tistory.com/143">React, 어디까지 컴포넌트를 분리해야 하는가?(2)</a></li>
+    <li><a href="https://swarvy.tistory.com/144">전역상태 분리의 기준
+</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/contentEditable-with-React-hook-form">contentEditable with React-hook-form
+</a></li>
   </ul>
 </details>
 
@@ -162,7 +167,46 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=5 align="center">5주차<br />(23.05.29 - 23.06.04)</th>
+      <th rowspan=4 align="center">5주차<br />(23.05.29 - 23.06.04)</th>
+      <td><a href="https://html-jc.tistory.com/668">파일 시그니처
+</a></td>
+      <td><code>cs</code></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td><a href="https://swarvy.tistory.com/144">전역상태 분리의 기준
+</a></td>
+      <td><code>react</code></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td><a href="https://velog.io/@qhflrnfl4324/contentEditable-with-React-hook-form">contentEditable with React-hook-form
+</a></td>
+      <td><code>react</code></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td><a href="https://velog.io/@chee9835/Array-Set-List%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C">Array / Set / List는 어떻게 다를까?</a></td>
+      <td><code>cs</code></td>
+      <td>채희수</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 🗞 6월
+<table>
+  <thead>
+    <tr>
+      <th align="center">날짜</th>
+      <th align="center">포스트</th>
+      <th align="center">태그</th>
+      <th align="center">작성자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=4 align="center">1주차<br />(23.06.05 - 23.06.11)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
@@ -180,7 +224,65 @@
     <tr>
       <td></td>
       <td></td>
-      <td>이예슬</td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">2주차<br />(23.06.12 - 23.06.18)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">3주차<br />(23.06.19 - 23.06.25)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">4주차<br />(23.06.26 - 23.07.02)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
     </tr>
     <tr>
       <td></td>
