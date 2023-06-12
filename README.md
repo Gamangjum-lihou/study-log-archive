@@ -166,8 +166,23 @@
       <td><code>html</code></td>
       <td>채희수</td>
     </tr>
+  </tbody>
+</table>
+
+
+### 🗞 6월
+<table>
+  <thead>
     <tr>
-      <th rowspan=4 align="center">5주차<br />(23.05.29 - 23.06.04)</th>
+      <th align="center">날짜</th>
+      <th align="center">포스트</th>
+      <th align="center">태그</th>
+      <th align="center">작성자</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <th rowspan=4 align="center">1주차<br />(23.05.29 - 23.06.04)</th>
       <td><a href="https://html-jc.tistory.com/668">파일 시그니처
 </a></td>
       <td><code>cs</code></td>
@@ -190,23 +205,8 @@
       <td><code>cs</code></td>
       <td>채희수</td>
     </tr>
-  </tbody>
-</table>
-
-
-### 🗞 6월
-<table>
-  <thead>
     <tr>
-      <th align="center">날짜</th>
-      <th align="center">포스트</th>
-      <th align="center">태그</th>
-      <th align="center">작성자</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th rowspan=4 align="center">1주차<br />(23.06.05 - 23.06.11)</th>
+      <th rowspan=4 align="center">2주차<br />(23.06.05 - 23.06.11)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
@@ -227,7 +227,7 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">2주차<br />(23.06.12 - 23.06.18)</th>
+      <th rowspan=4 align="center">3주차<br />(23.06.12 - 23.06.18)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
@@ -248,7 +248,7 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">3주차<br />(23.06.19 - 23.06.25)</th>
+      <th rowspan=4 align="center">4주차<br />(23.06.19 - 23.06.25)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
@@ -269,7 +269,7 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">4주차<br />(23.06.26 - 23.07.02)</th>
+      <th rowspan=4 align="center">5주차<br />(23.06.26 - 23.07.02)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
