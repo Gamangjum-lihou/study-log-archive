@@ -58,6 +58,7 @@
     <li><a href="https://html-jc.tistory.com/668">파일 시그니처
 </a></li>
     <li><a href="https://velog.io/@chee9835/Array-Set-List%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C">Array / Set / List는 어떻게 다를까?</a></li>
+    <li><a href="https://html-jc.tistory.com/670">ORM 이란?</a></li>
   </ul>
 </details>
 <details>
@@ -91,6 +92,7 @@
 </a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/contentEditable-with-React-hook-form">contentEditable with React-hook-form
 </a></li>
+    <li><a href="https://swarvy.tistory.com/145">쏠쏠하게 useParams 사용해보기</a></li>
   </ul>
 </details>
 
@@ -99,6 +101,14 @@
   <ul>
     <li><a href="https://html-jc.tistory.com/657">Server Components</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/Middleware-with-Next.js">Middleware with Next.js</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/Emotion-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%9D%BC%EB%B0%98-CSS-%EC%84%A0%ED%83%9D%EC%9E%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-Next.js">Emotion 컴포넌트를 일반 CSS 선택자로 사용하기 | Next.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>&nbsp;Others</strong></summary>
+  <ul>
+    <li><a href="https://velog.io/@chee9835/vscode-%EC%97%90%EC%84%9C-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0">vscode 에서 prettier 사용하기</a></li>
   </ul>
 </details>
 
@@ -169,8 +179,10 @@
   </tbody>
 </table>
 
+<br />
 
 ### 🗞 6월
+
 <table>
   <thead>
     <tr>
@@ -207,23 +219,23 @@
     </tr>
     <tr>
       <th rowspan=4 align="center">2주차<br />(23.06.05 - 23.06.11)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/670">ORM 이란?</a></td>
+      <td><code>db</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/145">쏠쏠하게 useParams 사용해보기</a></td>
+      <td><code>react-router-dom</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Emotion-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%9D%BC%EB%B0%98-CSS-%EC%84%A0%ED%83%9D%EC%9E%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-Next.js">Emotion 컴포넌트를 일반 CSS 선택자로 사용하기 | Next.js</a></td>
+      <td><code>next.js</code><code>emotion</code></td>
       <td>이보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@chee9835/vscode-%EC%97%90%EC%84%9C-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0">vscode 에서 prettier 사용하기</a></td>
+      <td><code>prettier</code></td>
       <td>채희수</td>
     </tr>
     <tr>
