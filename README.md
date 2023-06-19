@@ -93,6 +93,7 @@
     <li><a href="https://velog.io/@qhflrnfl4324/contentEditable-with-React-hook-form">contentEditable with React-hook-form
 </a></li>
     <li><a href="https://swarvy.tistory.com/145">쏠쏠하게 useParams 사용해보기</a></li>
+    <li><a href="https://swarvy.tistory.com/146">프로젝트를 마무리하면서</a></li>
   </ul>
 </details>
 
@@ -102,6 +103,7 @@
     <li><a href="https://html-jc.tistory.com/657">Server Components</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/Middleware-with-Next.js">Middleware with Next.js</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/Emotion-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%9D%BC%EB%B0%98-CSS-%EC%84%A0%ED%83%9D%EC%9E%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-Next.js">Emotion 컴포넌트를 일반 CSS 선택자로 사용하기 | Next.js</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/nextimage-%EB%B0%98%EC%9D%91%ED%98%95-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-Next.js-13">next/image 반응형 적용하기 | Next.js 13</a></li>
   </ul>
 </details>
 
@@ -109,6 +111,7 @@
   <summary><strong>&nbsp;Others</strong></summary>
   <ul>
     <li><a href="https://velog.io/@chee9835/vscode-%EC%97%90%EC%84%9C-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0">vscode 에서 prettier 사용하기</a></li>
+    <li><a href="https://html-jc.tistory.com/676">왜 기업들은 Yarn Berry를 많이 사용할까?(1)(feat. NPM)</a></li>
   </ul>
 </details>
 
@@ -230,7 +233,7 @@
     </tr>
     <tr>
       <td><a href="https://velog.io/@qhflrnfl4324/Emotion-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%9D%BC%EB%B0%98-CSS-%EC%84%A0%ED%83%9D%EC%9E%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-Next.js">Emotion 컴포넌트를 일반 CSS 선택자로 사용하기 | Next.js</a></td>
-      <td><code>next.js</code><code>emotion</code></td>
+      <td><code>next.js</code><br /><code>emotion</code></td>
       <td>이보리</td>
     </tr>
     <tr>
@@ -239,28 +242,23 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">3주차<br />(23.06.12 - 23.06.18)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=3 align="center">🏖️ 3주차<br />(23.06.12 - 23.06.18)</th>
+      <td><a href="https://html-jc.tistory.com/676">왜 기업들은 Yarn Berry를 많이 사용할까?(1)(feat. NPM)</a></td>
+      <td><code>node.js</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/146">프로젝트를 마무리하면서</a></td>
+      <td><code>react</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/nextimage-%EB%B0%98%EC%9D%91%ED%98%95-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-Next.js-13">next/image 반응형 적용하기 | Next.js 13</a></td>
+      <td><code>next.js</code><br /><code>css</code></td>
       <td>이보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
-    </tr>
-    <tr>
-      <th rowspan=4 align="center">4주차<br />(23.06.19 - 23.06.25)</th>
+      <th rowspan=4 align="center">🏖️ 4주차<br />(23.06.19 - 23.06.25)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
