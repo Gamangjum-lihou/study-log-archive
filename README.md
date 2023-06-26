@@ -112,6 +112,8 @@
   <ul>
     <li><a href="https://velog.io/@chee9835/vscode-%EC%97%90%EC%84%9C-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0">vscode 에서 prettier 사용하기</a></li>
     <li><a href="https://html-jc.tistory.com/676">왜 기업들은 Yarn Berry를 많이 사용할까?(1)(feat. NPM)</a></li>
+    <li><a href="https://html-jc.tistory.com/684">Dynamic Programming (DP)</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/ESLint-%EC%97%90%EB%9F%AC%EB%B6%80%ED%84%B0-Node.js-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-%EC%97%90%EB%9F%AC%EA%B9%8C%EC%A7%80">ESLint 에러부터 Node.js 버전 변경 에러까지</a></li>
   </ul>
 </details>
 
@@ -258,25 +260,15 @@
       <td>이보리</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">🏖️ 4주차<br />(23.06.19 - 23.06.25)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=2 align="center">🏖️ 4주차<br />(23.06.19 - 23.06.25)</th>
+      <td><a href="https://html-jc.tistory.com/684">Dynamic Programming (DP)</a></td>
+      <td><code>algorythm</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>신현호</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/ESLint-%EC%97%90%EB%9F%AC%EB%B6%80%ED%84%B0-Node.js-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-%EC%97%90%EB%9F%AC%EA%B9%8C%EC%A7%80">ESLint 에러부터 Node.js 버전 변경 에러까지</a></td>
+      <td><code>eslint</code><br /><code>node.js</code></td>
       <td>이보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
     </tr>
     <tr>
       <th rowspan=4 align="center">5주차<br />(23.06.26 - 23.07.02)</th>
