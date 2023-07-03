@@ -10,7 +10,7 @@
 - 매주 월요일에 이슈의 내용이 리드미에 반영됩니다.
 
 > #### 태그 예시
-> `회고`, `javascript`, `typescript`, `algorithm`, `react`, `error`, `http`, `cs`, `git` 등 
+> `회고`, `javascript`, `typescript`, `algorithm`, `react`, `error`, `http`, `cs`, `git` 등
 
 <br />
 
@@ -58,7 +58,7 @@
     <li><a href="https://html-jc.tistory.com/668">파일 시그니처
 </a></li>
     <li><a href="https://velog.io/@chee9835/Array-Set-List%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%BC%EA%B9%8C">Array / Set / List는 어떻게 다를까?</a></li>
-    <li><a href="https://html-jc.tistory.com/670">ORM 이란?</a></li>
+    <li><a href="https://html-jc.tistory.com/675">ORM 이란?</a></li>
   </ul>
 </details>
 <details>
@@ -129,7 +129,7 @@
       <th align="center">날짜</th>
       <th align="center">포스트</th>
       <th align="center">태그</th>
-      <th align="center">작성자</th>
+      <th align="center" width="75">작성자</th>
     </tr>
   </thead>
   <tbody>
@@ -151,7 +151,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://velog.io/@qhflrnfl4324/string-%ED%98%95%EC%8B%9D%EC%9D%98-%EC%9D%B8%EC%88%98%EB%8A%94-...-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%A7%A4%EA%B0%9C-%EB%B3%80%EC%88%98%EC%97%90-%ED%95%A0%EB%8B%B9%EB%90%A0-%EC%88%98-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.-TypeScript">string 형식의 인수는 ... 형식의 매개 변수에 할당될 수 없습니다.</a>  
+        <a href="https://velog.io/@qhflrnfl4324/string-%ED%98%95%EC%8B%9D%EC%9D%98-%EC%9D%B8%EC%88%98%EB%8A%94-...-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%A7%A4%EA%B0%9C-%EB%B3%80%EC%88%98%EC%97%90-%ED%95%A0%EB%8B%B9%EB%90%A0-%EC%88%98-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.-TypeScript">string 형식의 인수는 ... 형식의 매개 변수에 할당될 수 없습니다.</a>
       </td>
       <td><code>typescript</code></td>
       <td>이보리</td>
@@ -196,7 +196,7 @@
       <th align="center">날짜</th>
       <th align="center">포스트</th>
       <th align="center">태그</th>
-      <th align="center">작성자</th>
+      <th align="center" width="75">작성자</th>
     </tr>
   </thead>
   <tbody>
@@ -226,7 +226,7 @@
     </tr>
     <tr>
       <th rowspan=4 align="center">2주차<br />(23.06.05 - 23.06.11)</th>
-      <td><a href="https://html-jc.tistory.com/670">ORM 이란?</a></td>
+      <td><a href="https://html-jc.tistory.com/675">ORM 이란?</a></td>
       <td><code>db</code></td>
       <td>강철원</td>
     </tr>
@@ -305,7 +305,7 @@
       <th align="center">날짜</th>
       <th align="center">포스트</th>
       <th align="center">태그</th>
-      <th align="center">작성자</th>
+      <th align="center" width="75">작성자</th>
     </tr>
   </thead>
   <tbody>
