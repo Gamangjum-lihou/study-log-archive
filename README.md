@@ -94,6 +94,7 @@
 </a></li>
     <li><a href="https://swarvy.tistory.com/145">쏠쏠하게 useParams 사용해보기</a></li>
     <li><a href="https://swarvy.tistory.com/146">프로젝트를 마무리하면서</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/textarea-%EC%B4%88%EA%B8%B0-%EB%86%92%EC%9D%B4%EA%B0%92-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-React-hook-form">textarea 초기 높이값 설정하기 | React-hook-form</a></li>
   </ul>
 </details>
 
@@ -114,6 +115,8 @@
     <li><a href="https://html-jc.tistory.com/676">왜 기업들은 Yarn Berry를 많이 사용할까?(1)(feat. NPM)</a></li>
     <li><a href="https://html-jc.tistory.com/684">Dynamic Programming (DP)</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/ESLint-%EC%97%90%EB%9F%AC%EB%B6%80%ED%84%B0-Node.js-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-%EC%97%90%EB%9F%AC%EA%B9%8C%EC%A7%80">ESLint 에러부터 Node.js 버전 변경 에러까지</a></li>
+    <li><a href="https://html-jc.tistory.com/690">[Git] git tag</a></li>
+    <li><a href="https://swarvy.tistory.com/147">img 태그 최적화하기</a></li>
   </ul>
 </details>
 
@@ -187,7 +190,6 @@
 <br />
 
 ### 🗞 6월
-
 <table>
   <thead>
     <tr>
@@ -272,6 +274,106 @@
     </tr>
     <tr>
       <th rowspan=4 align="center">5주차<br />(23.06.26 - 23.07.02)</th>
+      <td><a href="https://html-jc.tistory.com/690">[Git] git tag</a></td>
+      <td><code>git</code></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td><a href="https://swarvy.tistory.com/147">img 태그 최적화하기</a></td>
+      <td><code>web</code></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td><a href="https://velog.io/@qhflrnfl4324/textarea-%EC%B4%88%EA%B8%B0-%EB%86%92%EC%9D%B4%EA%B0%92-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-React-hook-form">textarea 초기 높이값 설정하기 | React-hook-form</a></td>
+      <td><code>react-hook-form</code></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td><p align="center">-</p></td>
+      <td><p align="center">-</p></td>
+      <td>채희수</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+### 🗞 7월
+<table>
+  <thead>
+    <tr>
+      <th align="center">날짜</th>
+      <th align="center">포스트</th>
+      <th align="center">태그</th>
+      <th align="center">작성자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=4 align="center">1주차<br />(23.07.03 - 23.07.09)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">2주차<br />(23.07.10 - 23.07.16)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">3주차<br />(23.07.17 - 23.07.23)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">4주차<br />(23.07.24 - 23.07.30)</th>
       <td></td>
       <td></td>
       <td>강철원</td>
