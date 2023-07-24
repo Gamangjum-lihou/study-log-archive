@@ -68,6 +68,7 @@
     <li><a href="https://velog.io/@chee9835/HTML%EC%97%90%EC%84%9C-%ED%83%9C%EA%B7%B8%EB%A5%BC-%EC%95%88-%EB%8B%AB%EC%95%84%EB%8F%84-%EC%98%A4%EB%A5%98%EA%B0%80-%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%9D%B4%EC%9C%A0">HTML에서 태그를 안 닫아도 오류가 나지 않는 이유</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95-CSS">미디어 쿼리를 이용한 크로스 브라우징 | CSS</a>
     </li>
+    <li><a href="https://html-jc.tistory.com/696">CSS-in-JS</a></li>
   </ul>
 </details>
 <details>
@@ -101,6 +102,9 @@
     <li><a href="https://swarvy.tistory.com/145">쏠쏠하게 useParams 사용해보기</a></li>
     <li><a href="https://swarvy.tistory.com/146">프로젝트를 마무리하면서</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/textarea-%EC%B4%88%EA%B8%B0-%EB%86%92%EC%9D%B4%EA%B0%92-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-React-hook-form">textarea 초기 높이값 설정하기 | React-hook-form</a></li>
+    <li><a href="https://swarvy.tistory.com/149">TOSS 리팩터링 후기</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/Query-data-cannot-be-undefined-React-Query">Query data cannot be undefined | React-Query
+</a></li>
   </ul>
 </details>
 
@@ -356,25 +360,21 @@
       <td>채희수</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">3주차<br />(23.07.17 - 23.07.23)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=3 align="center">3주차<br />(23.07.17 - 23.07.23)</th>
+      <td><a href="https://html-jc.tistory.com/696">CSS-in-JS</a></td>
+      <td><code>css</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/149">TOSS 리팩터링 후기</a></td>
+      <td><code>react</code><br /><code>typescript</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Query-data-cannot-be-undefined-React-Query">Query data cannot be undefined | React-Query
+</a></td>
+      <td><code>react-query</code></td>
       <td>이보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
     </tr>
     <tr>
       <th rowspan=4 align="center">4주차<br />(23.07.24 - 23.07.30)</th>
