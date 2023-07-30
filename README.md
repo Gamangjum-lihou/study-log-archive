@@ -399,3 +399,124 @@
     </tr>
   </tbody>
 </table>
+
+<br />
+
+### 🗞 8월
+<table>
+  <thead>
+    <tr>
+      <th align="center">날짜</th>
+      <th align="center">포스트</th>
+      <th align="center">태그</th>
+      <th align="center" width="70px">작성자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=4 align="center">1주차<br />(23.07.31 - 23.08.06)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">2주차<br />(23.08.07 - 23.08.13)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">3주차<br />(23.08.14 - 23.08.20)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">4주차<br />(23.08.21 - 23.08.27)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+    <tr>
+      <th rowspan=4 align="center">5주차<br />(23.08.28 - 23.09.03)</th>
+      <td></td>
+      <td></td>
+      <td>강철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>신현호</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>이보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채희수</td>
+    </tr>
+  </tbody>
+</table>
