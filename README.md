@@ -78,6 +78,7 @@
     <li><a href="https://velog.io/@chee9835/JSDoc%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0">JSDoc을 사용하는 이유</a></li>
     <li><a href="https://velog.io/@chee9835/scroll-%EA%B0%92-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0">scroll 값 계산하기</a></li>
     <li><a href="https://velog.io/@chee9835/%EB%B6%80%EB%AA%A8-%EC%9A%94%EC%86%8C%EC%9D%98-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EC%9E%90%EC%8B%9D-%EC%9A%94%EC%86%8C%EC%97%90%EC%84%9C-%EB%AC%B4%ED%9A%A8%ED%99%94%EC%8B%9C%ED%82%A4%EB%A0%A4%EB%A9%B4">부모 요소의 클릭 이벤트를 자식 요소에서 무효화시키려면?</a></li>
+    <li><a href="https://swarvy.tistory.com/150">23년 새로생긴 자바스크립트 기능</a></li>
   </ul>
 </details>
 
@@ -139,6 +140,8 @@
     <li><a href="https://velog.io/@chee9835/vscode-%EC%97%90%EC%84%9C-prettier-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0">vscode 에서 prettier 사용하기</a></li>
     <li><a href="https://html-jc.tistory.com/676">왜 기업들은 Yarn Berry를 많이 사용할까?(1)(feat. NPM)</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/ESLint-%EC%97%90%EB%9F%AC%EB%B6%80%ED%84%B0-Node.js-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-%EC%97%90%EB%9F%AC%EA%B9%8C%EC%A7%80">ESLint 에러부터 Node.js 버전 변경 에러까지</a></li>
+    <li><a href="https://html-jc.tistory.com/697">ESLint란 무엇이고 어떻게 사용할까?</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/zsh-command-not-found-yarn-Errors">zsh: command not found: yarn | Errors</a></li>
   </ul>
 </details>
 
@@ -377,25 +380,20 @@
       <td>이보리</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">4주차<br />(23.07.24 - 23.07.30)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=3 align="center">4주차<br />(23.07.24 - 23.07.30)</th>
+      <td><a href="https://html-jc.tistory.com/697">ESLint란 무엇이고 어떻게 사용할까?</a></td>
+      <td><code>eslint</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/150">23년 새로생긴 자바스크립트 기능</a></td>
+      <td><code>javascript</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/zsh-command-not-found-yarn-Errors">zsh: command not found: yarn | Errors</a></td>
+      <td><code>package-manager</code></td>
       <td>이보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
     </tr>
   </tbody>
 </table>
