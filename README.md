@@ -87,6 +87,7 @@
   <ul>
     <li><a href="https://velog.io/@qhflrnfl4324/string-%ED%98%95%EC%8B%9D%EC%9D%98-%EC%9D%B8%EC%88%98%EB%8A%94-...-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%A7%A4%EA%B0%9C-%EB%B3%80%EC%88%98%EC%97%90-%ED%95%A0%EB%8B%B9%EB%90%A0-%EC%88%98-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.-TypeScript">string 형식의 인수는 ... 형식의 매개 변수에 할당될 수 없습니다.</a></li>
     <li><a href="https://swarvy.tistory.com/147">img 태그 최적화하기</a></li>
+    <li><a href="https://swarvy.tistory.com/151">TS는 항상 최선의 선택지인가</a></li>
   </ul>
 </details>
 
@@ -142,6 +143,8 @@
     <li><a href="https://velog.io/@qhflrnfl4324/ESLint-%EC%97%90%EB%9F%AC%EB%B6%80%ED%84%B0-Node.js-%EB%B2%84%EC%A0%84-%EB%B3%80%EA%B2%BD-%EC%97%90%EB%9F%AC%EA%B9%8C%EC%A7%80">ESLint 에러부터 Node.js 버전 변경 에러까지</a></li>
     <li><a href="https://html-jc.tistory.com/697">ESLint란 무엇이고 어떻게 사용할까?</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/zsh-command-not-found-yarn-Errors">zsh: command not found: yarn | Errors</a></li>
+    <li><a href="https://html-jc.tistory.com/698">Peer Dependencies는 왜 필요하고 사용될까?</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/Netlify-CLI-%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0">Netlify CLI 로 배포하기</a></li>
   </ul>
 </details>
 
@@ -412,25 +415,20 @@
   </thead>
   <tbody>
     <tr>
-      <th rowspan=4 align="center">1주차<br />(23.07.31 - 23.08.06)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=3 align="center">1주차<br />(23.07.31 - 23.08.06)</th>
+      <td><a href="https://html-jc.tistory.com/698">Peer Dependencies는 왜 필요하고 사용될까?</a></td>
+      <td><code>node.js</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/151">TS는 항상 최선의 선택지인가</a></td>
+      <td><code>javascript</code><br /><code>typescript</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Netlify-CLI-%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0">Netlify CLI 로 배포하기</a></td>
+      <td><code>배포</code></td>
       <td>이보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
     </tr>
     <tr>
       <th rowspan=4 align="center">2주차<br />(23.08.07 - 23.08.13)</th>
