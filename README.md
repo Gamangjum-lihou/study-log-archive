@@ -79,6 +79,7 @@
     <li><a href="https://velog.io/@chee9835/scroll-%EA%B0%92-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0">scroll 값 계산하기</a></li>
     <li><a href="https://velog.io/@chee9835/%EB%B6%80%EB%AA%A8-%EC%9A%94%EC%86%8C%EC%9D%98-%ED%81%B4%EB%A6%AD-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A5%BC-%EC%9E%90%EC%8B%9D-%EC%9A%94%EC%86%8C%EC%97%90%EC%84%9C-%EB%AC%B4%ED%9A%A8%ED%99%94%EC%8B%9C%ED%82%A4%EB%A0%A4%EB%A9%B4">부모 요소의 클릭 이벤트를 자식 요소에서 무효화시키려면?</a></li>
     <li><a href="https://swarvy.tistory.com/150">23년 새로생긴 자바스크립트 기능</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/Module-system-with-CommonJs-AMD-JavaScript">Module system with CommonJs, AMD | JavaScript</a></li>
   </ul>
 </details>
 
@@ -431,25 +432,10 @@
       <td>이보리</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">2주차<br />(23.08.07 - 23.08.13)</th>
-      <td></td>
-      <td></td>
-      <td>강철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>신현호</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <th align="center">2주차<br />(23.08.07 - 23.08.13)</th>
+      <td><a href="https://velog.io/@qhflrnfl4324/Module-system-with-CommonJs-AMD-JavaScript">Module system with CommonJs, AMD | JavaScript</a></td>
+      <td><code>javascript</code></td>
       <td>이보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
     </tr>
     <tr>
       <th rowspan=4 align="center">3주차<br />(23.08.14 - 23.08.20)</th>
