@@ -146,6 +146,7 @@
     <li><a href="https://velog.io/@qhflrnfl4324/zsh-command-not-found-yarn-Errors">zsh: command not found: yarn | Errors</a></li>
     <li><a href="https://html-jc.tistory.com/698">Peer Dependencies는 왜 필요하고 사용될까?</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/Netlify-CLI-%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0">Netlify CLI 로 배포하기</a></li>
+    <li><a href="https://html-jc.tistory.com/699">패키지 매니저 비교 (npm vs yarn vs pnpm)</a></li>
   </ul>
 </details>
 
@@ -438,25 +439,10 @@
       <td>이보리</td>
     </tr>
     <tr>
-      <th rowspan=4 align="center">3주차<br />(23.08.14 - 23.08.20)</th>
-      <td></td>
-      <td></td>
+      <th align="center">3주차<br />(23.08.14 - 23.08.20)</th>
+      <td><a href="https://html-jc.tistory.com/699">패키지 매니저 비교 (npm vs yarn vs pnpm)</a></td>
+      <td><code>node.js</code></td>
       <td>강철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>신현호</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>이보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>채희수</td>
     </tr>
     <tr>
       <th rowspan=4 align="center">4주차<br />(23.08.21 - 23.08.27)</th>
