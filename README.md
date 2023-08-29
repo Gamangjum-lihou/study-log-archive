@@ -69,6 +69,7 @@
     <li><a href="https://velog.io/@qhflrnfl4324/%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95-CSS">미디어 쿼리를 이용한 크로스 브라우징 | CSS</a>
     </li>
     <li><a href="https://html-jc.tistory.com/696">CSS-in-JS</a></li>
+    <li><a href="https://velog.io/@chee9835/a-%ED%83%9C%EA%B7%B8%EB%A1%9C-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0">태그로 파일 다운로드하기</a></li>
   </ul>
 </details>
 <details>
@@ -89,6 +90,8 @@
     <li><a href="https://velog.io/@qhflrnfl4324/string-%ED%98%95%EC%8B%9D%EC%9D%98-%EC%9D%B8%EC%88%98%EB%8A%94-...-%ED%98%95%EC%8B%9D%EC%9D%98-%EB%A7%A4%EA%B0%9C-%EB%B3%80%EC%88%98%EC%97%90-%ED%95%A0%EB%8B%B9%EB%90%A0-%EC%88%98-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.-TypeScript">string 형식의 인수는 ... 형식의 매개 변수에 할당될 수 없습니다.</a></li>
     <li><a href="https://swarvy.tistory.com/147">img 태그 최적화하기</a></li>
     <li><a href="https://swarvy.tistory.com/151">TS는 항상 최선의 선택지인가</a></li>
+    <li><a href="https://html-jc.tistory.com/700">[Typescript] tsconfig.json 옵션</a></li>
+    <li><a href="https://velog.io/@qhflrnfl4324/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">자바스크립트에 타입스크립트 적용하기</a></li>
   </ul>
 </details>
 
@@ -147,6 +150,7 @@
     <li><a href="https://html-jc.tistory.com/698">Peer Dependencies는 왜 필요하고 사용될까?</a></li>
     <li><a href="https://velog.io/@qhflrnfl4324/Netlify-CLI-%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0">Netlify CLI 로 배포하기</a></li>
     <li><a href="https://html-jc.tistory.com/699">패키지 매니저 비교 (npm vs yarn vs pnpm)</a></li>
+    <li><a href="https://swarvy.tistory.com/152">JS/TS에 웹스톰을 싸서 드셔보세요</a></li>
   </ul>
 </details>
 
@@ -446,23 +450,23 @@
     </tr>
     <tr>
       <th rowspan=4 align="center">4주차<br />(23.08.21 - 23.08.27)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/700">[Typescript] tsconfig.json 옵션</a></td>
+  		<td><code>typesccript</code></td>
       <td>강철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/152">JS/TS에 웹스톰을 싸서 드셔보세요</a></td>
+  		<td><code>javascript</code><br /><code>typescript</code><br /><code>ide</code></td>
       <td>신현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0">자바스크립트에 타입스크립트 적용하기</a></td>
+  		<td><code>typescript</code></td>
       <td>이보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@chee9835/a-%ED%83%9C%EA%B7%B8%EB%A1%9C-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0">태그로 파일 다운로드하기</a></td>
+  		<td><code>html</code></td>
       <td>채희수</td>
     </tr>
     <tr>
