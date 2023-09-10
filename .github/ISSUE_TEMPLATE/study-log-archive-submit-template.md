@@ -3,7 +3,7 @@ name: Study Log Archive submit template
 about: Study Log Archive submit template
 title: "[ m월 n주차 ]"
 labels: ''
-assignees: SWARVY, Ryan-Dia, Bori-github, chee9835
+assignees: limvik, SWARVY, Ryan-Dia, Bori-github, BaxDailyGit, hannaax
 
 ---
 
