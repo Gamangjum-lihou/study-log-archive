@@ -1,0 +1,37 @@
+# workflow 의 이름
+name: issues labeler
+
+# 트리거될 이벤트 설정
+on:
+  issue_comment:
+    types: [created]
+
+# 트리거되었을 때 실행될 job 작성
+jobs:
+  issue_commented:
+    if: github.event.comment.user.login == 'Ryan-Dia'||'SWARVY'||'Bori-github'||'limvik'||'hannaax'||'BaxDailyGit'
+    name: apply-label
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add Label
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const userLabelMap = {
+              'Ryan-Dia': '철원',
+              'SWARVY': '현호',
+              'Bori-github': '보리',
+              'limvik': '성국',
+              'hannaax': '한나',
+              'BaxDailyGit': '승진'
+            };
+            const userLogin = context.payload.comment.user.login;
+            const labelToAdd = userLabelMap[userLogin];
+
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: [`${labelToAdd}`]
+            });
