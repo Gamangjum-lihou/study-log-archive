@@ -2,8 +2,6 @@
 
 매주 블로그를 작성하면서 공부한 기록을 남기고, 공유합니다.
 
-<br />
-
 **[🔖 Study Log Archive wiki 바로가기](https://github.com/Gamangjum-lihou/study-log-archive/wiki)**
 - 2023 2nd season - 진행중
 - [2023 1st season 바로가기](https://github.com/Gamangjum-lihou/study-log-archive/wiki)
@@ -94,33 +92,33 @@
   <tbody>
     <tr>
       <th rowspan=6 align="center">1주차<br />(23.09.04 - 23.09.10)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/%EA%B5%AC%EC%84%B1-%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%9E%85%EB%A0%A5%EC%9D%84-%EC%B0%BE%EC%9D%84-%EC%88%98-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.-ts-TypeScript">구성 파일에서 입력을 찾을 수 없습니다. ts | TypeScript</a></td>
+      <td><code>typescript</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/singleton-pattern-with-java/">Java로 살펴보는 싱글턴(Singleton) 패턴</a></td>
+      <td><code>object-oriented-programming</code><br /><code>design-pattern</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://baxdailygit.github.io/network/Interview_Summary/">[네트워크]면접 단골질문 정리</a></td>
+      <td><code>network</code></td>
       <td>승진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/704">[번역] : RSC From Scratch. Part 1: Server Components</a></td>
+      <td><code>react</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/522">문자열 내 마음대로 정렬하기 (feat. JS sort 함수)</a></td>
+      <td><code>javascrpt</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/153">[React.js] react-slick과 tailwindcss-animated를 활용한 drag carousel 만들기</a></td>
+      <td><code>react.js</code><br /><code>tailwindcss-animated</code><br /><code>react-slick</code></td>
       <td>현호</td>
     </tr>
     <tr>
