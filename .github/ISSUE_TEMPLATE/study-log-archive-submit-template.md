@@ -10,8 +10,8 @@ assignees: limvik, SWARVY, Ryan-Dia, Bori-github, BaxDailyGit, hannaax
 🚀 기간 : yy.mm.dd - yy.mm.dd
 
 - 블로그 링크와 관련 태그를 댓글로 남겨주세요.
-- 제출 후 Labels에서 각자 이름 라벨 선택해주세요.
 - 태그는 여러 개를 지정할 수 있습니다. (최대 3개)
+- 댓글을 남기면 github actions를 통해 댓글 작성자의 라벨이 자동으로 지정됩니다.
 
 예시)
 블로그 링크 :
