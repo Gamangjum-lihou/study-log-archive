@@ -123,33 +123,33 @@
     </tr>
     <tr>
       <th rowspan=6 align="center">2주차<br />(23.09.11 - 23.09.17)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Array.length-0-vs-Array-JavaScript">Array.length = 0 vs Array = [] | JavaScript</a></td>
+    	<td><code>javascript</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/review-the-manning-liveproject-rest-api-with-spring/">Manning Liveproject 사용 후기</a></td>
+    	<td><code>etc</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://baxdailygit.github.io/java/java_multiple_constructors/">[JAVA]다중 생성자와 메서드 오버로딩</a></td>
+    	<td><code>java</code><br /><code>다중생성자</code><br /><code>매서드오버로딩</code></td>
       <td>승진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/708">GitHub Action</a></td>
+    	<td><code>git</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>-</td>
+    	<td>-</td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/154">[TS] TS의 퇴출...?</a></td>
+    	<td><code>typescript</code><br /><code>javascript</code></td>
       <td>현호</td>
     </tr>
     <tr>
