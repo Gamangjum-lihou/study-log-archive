@@ -154,33 +154,33 @@
     </tr>
     <tr>
       <th rowspan=6 align="center">3주차<br />(23.09.18 - 23.09.24)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Metro-React-native">Metro | React native</a></td>
+      <td><code>react native</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/about-union-find/">Union-Find</a></td>
+      <td><code>algorithm</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://baxdailygit.github.io/springboot/spring_boot_api/">[Spring Boot]Spring Boot로 간단한 API 구현하기</a></td>
+      <td><code>spring boot</code><br /><code>api implementation</code><br /><code>annotations</code></td>
       <td>승진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/709">Husky, lint-staged 설치 및 사용법</a></td>
+      <td><code>git</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/528">docker</a></td>
+      <td><code>docker</code><br /><code>dev-tools</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/155">[JS] 번들러란?</a></td>
+      <td><code>bundler</code><br /><code>javascript</code></td>
       <td>현호</td>
     </tr>
     <tr>
