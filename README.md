@@ -184,35 +184,40 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">4주차<br />(23.09.25 - 23.10.01)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=7 align="center">4주차<br />(23.09.25 - 23.10.01)</th>
+      <td><a href="https://hackmd.io/zc1O6EL7Rs2Psk8Vg5A77Q">[Programmers Lv.2 | JS] 후보키</a></td>
+      <td><code>algorithm</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/why-java-does-not-allow-to-create-array-for-generic-type/">Java는 왜 Generic Type 배열 생성을 허용하지 않을까?</a></td>
+      <td><code>java</code><br /><code>generics</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://baxdailygit.github.io/linux/opensource2/">[CS]리눅스 vi editor 모드와 명령어</a></td>
+      <td><code>linux</code></td>
       <td>승진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/710">코딩 테스트할 때 유용한 코드들</a></td>
+      <td><code>algorithm</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/532">브라우저의 기본 구조와 렌더링 과정</a></td>
+      <td><code>web</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://swarvy.tistory.com/156">[JS] Babel 이란?</a></td>
+      <td><code>javascript</code><br /><code>babel</code></td>
       <td>현호</td>
+    </tr>
+    <tr>
+      <td><a href="https://velog.io/@chee9835/%EB%A6%AC%EC%95%A1%ED%8A%B8%EA%B0%80-%EA%B0%80%EC%A7%80%EB%8A%94-%EC%B7%A8%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%8C%80%EC%9D%91%EB%B0%A9%EC%95%88">리액트가 가지는 취약점과 대응방안</a></td>
+      <td><code>react</code></td>
+      <td>희수</td>
     </tr>
   </tbody>
 </table>
