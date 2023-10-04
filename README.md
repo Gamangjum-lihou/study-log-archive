@@ -47,13 +47,6 @@
       <a href="https://github.com/limvik">성국</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BaxDailyGit">
-        <img src="https://avatars.githubusercontent.com/u/99312529" alt="BaxDailyGit" width="120" />
-      </a>
-      <br />
-      <a href="https://github.com/BaxDailyGit">승진</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ryan-Dia">
         <img src="https://avatars1.githubusercontent.com/u/76567238" alt="Ryan-Dia" width="120" />
       </a>
@@ -184,7 +177,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=7 align="center">4주차<br />(23.09.25 - 23.10.01)</th>
+      <th rowspan=6 align="center">4주차<br />(23.09.25 - 23.10.01)</th>
       <td><a href="https://hackmd.io/zc1O6EL7Rs2Psk8Vg5A77Q">[Programmers Lv.2 | JS] 후보키</a></td>
       <td><code>algorithm</code></td>
       <td>보리</td>
@@ -214,10 +207,123 @@
       <td><code>javascript</code><br /><code>babel</code></td>
       <td>현호</td>
     </tr>
+  </tbody>
+</table>
+
+### 🗞 10월
+<table>
+  <thead>
     <tr>
-      <td><a href="https://velog.io/@chee9835/%EB%A6%AC%EC%95%A1%ED%8A%B8%EA%B0%80-%EA%B0%80%EC%A7%80%EB%8A%94-%EC%B7%A8%EC%95%BD%EC%A0%90%EA%B3%BC-%EB%8C%80%EC%9D%91%EB%B0%A9%EC%95%88">리액트가 가지는 취약점과 대응방안</a></td>
-      <td><code>react</code></td>
-      <td>희수</td>
+      <th align="center">날짜</th>
+      <th align="center">포스트</th>
+      <th align="center">태그</th>
+      <th align="center" width="70px">작성자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=5 align="center">1주차<br />(23.10.02 - 23.10.08)</th>
+      <td></td>
+      <td></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>현호</td>
+    </tr>
+    <tr>
+      <th rowspan=5 align="center">2주차<br />(23.10.09 - 23.10.15)</th>
+      <td></td>
+      <td></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>현호</td>
+    </tr>
+    <tr>
+      <th rowspan=5 align="center">3주차<br />(23.10.16 - 23.10.22)</th>
+      <td></td>
+      <td></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>현호</td>
+    </tr>
+    <tr>
+      <th rowspan=5 align="center">4주차<br />(23.10.23 - 23.10.29)</th>
+      <td></td>
+      <td></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>현호</td>
     </tr>
   </tbody>
 </table>
