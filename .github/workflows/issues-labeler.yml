@@ -24,7 +24,7 @@ jobs:
               'Bori-github': '보리',
               'limvik': '성국',
               'hannaax': '한나',
-              'yjin2021': '유진',
+              'ujin2021': '유진',
               '706com': '동현'
             };
             const userLogin = context.payload.comment.user.login;
