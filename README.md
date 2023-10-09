@@ -47,6 +47,13 @@
       <a href="https://github.com/limvik">성국</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ujin2021">
+        <img src="https://avatars.githubusercontent.com/u/53362054" alt="ujin2021" width="120" />
+      </a>
+      <br />
+      <a href="https://github.com/ujin2021">유진</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Ryan-Dia">
         <img src="https://avatars1.githubusercontent.com/u/76567238" alt="Ryan-Dia" width="120" />
       </a>
@@ -222,7 +229,38 @@
   </thead>
   <tbody>
     <tr>
-      <th rowspan=5 align="center">1주차<br />(23.10.02 - 23.10.08)</th>
+      <th rowspan=6 align="center">1주차<br />(23.10.02 - 23.10.08)</th>
+      <td><a href="https://velog.io/@qhflrnfl4324/Electron-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-with-React-TypeScript">Electron 시작하기 with React, TypeScript</a></td>
+      <td><code>electron</code></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td><a href="https://limvik.github.io/posts/how-to-set-maximum-password-length/">비밀번호 최소 길이는 8글자, 최대 길이는?</a></td>
+      <td><code>security</code></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td><a href="https://velog.io/@ujin2021/%EC%97%85%EB%AC%B4%EC%97%90-%EB%B0%94%EB%A1%9C-%EC%93%B0%EB%8A%94-SQL-%ED%8A%9C%EB%8B%9D-1">업무에 바로 쓰는 SQL 튜닝 (1)</a></td>
+      <td><code>mysql</code></td>
+      <td>유진</td>
+    </tr>
+    <tr>
+      <td><a href="https://html-jc.tistory.com/711">package.json</a></td>
+      <td><code>node.js</code></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td><a href="https://hanna-log.tistory.com/540">주소창에 URL을 입력하면 벌어지는 일</a></td>
+      <td><code>cs</code><br /><code>network</code></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td><a href="https://caffhheiene.vercel.app/posts/1">Next.js로 블로그 만들기(1)</a></td>
+      <td><code>next.js</code><br /><code>typescript</code></td>
+      <td>현호</td>
+    </tr>
+    <tr>
+      <th rowspan=6 align="center">2주차<br />(23.10.09 - 23.10.15)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -231,6 +269,11 @@
       <td></td>
       <td></td>
       <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>유진</td>
     </tr>
     <tr>
       <td></td>
@@ -248,7 +291,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=5 align="center">2주차<br />(23.10.09 - 23.10.15)</th>
+      <th rowspan=6 align="center">3주차<br />(23.10.16 - 23.10.22)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -257,6 +300,11 @@
       <td></td>
       <td></td>
       <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>유진</td>
     </tr>
     <tr>
       <td></td>
@@ -274,7 +322,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=5 align="center">3주차<br />(23.10.16 - 23.10.22)</th>
+      <th rowspan=6 align="center">4주차<br />(23.10.23 - 23.10.29)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -287,28 +335,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>현호</td>
-    </tr>
-    <tr>
-      <th rowspan=5 align="center">4주차<br />(23.10.23 - 23.10.29)</th>
-      <td></td>
-      <td></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>성국</td>
+      <td>유진</td>
     </tr>
     <tr>
       <td></td>
