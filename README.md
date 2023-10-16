@@ -33,6 +33,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/706com">
+        <img src="https://avatars.githubusercontent.com/u/104816530" alt="706com" width="120" />
+      </a>
+      <br />
+      <a href="https://github.com/706com">동현</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Bori-github">
         <img src="https://avatars.githubusercontent.com/u/85009583" alt="Bori-github" width="120" />
       </a>
@@ -260,7 +267,48 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">2주차<br />(23.10.09 - 23.10.15)</th>
+      <th rowspan=7 align="center">2주차<br />(23.10.09 - 23.10.15)</th>
+      <td><a href="https://velog.io/@7_06com/%EC%89%BD%EA%B2%8C%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC-MVC-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80">[쉽게용어정리] MVC 패턴이란?</a></td>
+      <td><code>mvc</code><br /><code>디자인패턴</code></td>
+      <td>동현</td>
+    </tr>
+    <tr>
+      <td><a href="https://velog.io/@qhflrnfl4324/Failed-to-build-iOS-project.-We-ran-xcodebuild-command-but-it-exited-with-error-code-65">Failed to build iOS project. We ran "xcodebuild" command but it exited with error code 65. | Xcode</a></td>
+      <td><code>xcode</code></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td><a href="https://limvik.github.io/posts/how-to-use-docker-compose-watch/">Docker Compose Watch를 이용한 로컬 코드 변경 실시간 반영 방법</a></td>
+      <td><code>docker</code></td>
+      <td>성국</td>
+    </tr>    
+    <tr>
+      <td><a href="https://velog.io/@ujin2021/%EC%97%85%EB%AC%B4%EC%97%90-%EB%B0%94%EB%A1%9C-%EC%93%B0%EB%8A%94-SQL-%ED%8A%9C%EB%8B%9D-2">업무에 바로 쓰는 SQL 튜닝 (2)</a></td>
+      <td><code>mysql</code></td>
+      <td>유진</td>
+    </tr>
+    <tr>
+      <td><a href="https://html-jc.tistory.com/375">재귀함수와 증감연산자를 사용할 때 주의점</a></td>
+      <td><code>javascript</code></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td><a href="https://hanna-log.tistory.com/543">useEffect() 종속성으로 추가할 항목 및 추가하지 않을 항목</a></td>
+      <td><code>react</code></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td><a href="https://caffhheiene.vercel.app/posts/2">Next.js로 블로그 만들기 (2)</a></td>
+      <td><code>next.js</code><br /><code>typescript</code></td>
+      <td>현호</td>
+    </tr>
+    <tr>
+      <th rowspan=7 align="center">3주차<br />(23.10.16 - 23.10.22)</th>
+      <td></td>
+      <td></td>
+      <td>동현</td>
+    </tr>
+    <tr>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -291,38 +339,12 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">3주차<br />(23.10.16 - 23.10.22)</th>
+      <th rowspan=7 align="center">4주차<br />(23.10.23 - 23.10.29)</th>
       <td></td>
       <td></td>
-      <td>보리</td>
+      <td>동현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>성국</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>유진</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>현호</td>
-    </tr>
-    <tr>
-      <th rowspan=6 align="center">4주차<br />(23.10.23 - 23.10.29)</th>
       <td></td>
       <td></td>
       <td>보리</td>
