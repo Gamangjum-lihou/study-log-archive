@@ -262,7 +262,7 @@
       <td>한나</td>
     </tr>
     <tr>
-      <td><a href="https://caffhheiene.vercel.app/posts/1">Next.js로 블로그 만들기(1)</a></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/1">Next.js로 블로그 만들기(1)</a></td>
       <td><code>next.js</code><br /><code>typescript</code></td>
       <td>현호</td>
     </tr>
@@ -298,44 +298,44 @@
       <td>한나</td>
     </tr>
     <tr>
-      <td><a href="https://caffhheiene.vercel.app/posts/2">Next.js로 블로그 만들기 (2)</a></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/2">Next.js로 블로그 만들기 (2)</a></td>
       <td><code>next.js</code><br /><code>typescript</code></td>
       <td>현호</td>
     </tr>
     <tr>
       <th rowspan=7 align="center">3주차<br />(23.10.16 - 23.10.22)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@7_06com/%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%9D%B4%EC%9C%A0">기능정의서 작성 방법 및 이유</a></td>
+      <td><code>설계</code><br /><code>기능정의서</code></td>
       <td>동현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Mermaid%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8">Mermaid를 이용한 시퀀스 다이어그램</a></td>
+      <td><code>mermaid</code><br /><code>sequence diagram</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/cookie-attributes/">쿠키(Cookie) 설정 속성 살펴보기</a></td>
+      <td><code>cookie</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/Podman-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0">Podman 설치 및 Mysql Container 실행하기</a></td>
+      <td><code>docker</code><br /><code>mysql</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/category">React Hook Form</a></td>
+      <td><code>react</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/544">동기와 비동기</a></td>
+      <td><code>javascript</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/3">Next.js로 블로그 만들기(3)</a></td>
+      <td><code>next.js</code><br /><code>typescript</code></td>
       <td>현호</td>
     </tr>
     <tr>
