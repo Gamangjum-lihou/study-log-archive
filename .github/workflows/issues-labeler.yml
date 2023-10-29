@@ -9,7 +9,7 @@ on:
 # 트리거되었을 때 실행될 job 작성
 jobs:
   issue_commented:
-    if: github.event.comment.user.login == 'Ryan-Dia'||'SWARVY'||'Bori-github'||'limvik'||'hannaax'||'BaxDailyGit'
+    if: github.event.comment.user.login == 'Ryan-Dia'||'SWARVY'||'Bori-github'||'limvik'||'hannaax'||'ujin2021'||'706com'
     name: apply-label
     runs-on: ubuntu-latest
     steps:
