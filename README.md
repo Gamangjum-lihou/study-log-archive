@@ -340,38 +340,38 @@
     </tr>
     <tr>
       <th rowspan=7 align="center">4주차<br />(23.10.23 - 23.10.29)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@7_06com/Java-static-final-static-final-%EC%9D%B4%EA%B2%8C-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%99%9C-%EC%93%B8%EA%B9%8C">[JAVA] static? final? static final?</a></td>
+      <td><code>java</code></td>
       <td>동현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/%EC%A0%95%EC%A0%81-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%EB%8F%99%EC%A0%81-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">정적 라이브러리와 동적 라이브러리</a></td>
+      <td><code>library</code><br /><code>electron</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/multithreading-model-and-java/">Multithreading 구현 모델과 Java</a></td>
+      <td><code>multithreading</code><br /><code>java</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-START-1">DDD START! (1)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/712">코드 리뷰 잘 활용하기</a></td>
+      <td><code>code review</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/547">react-hook-form과 yup을 이용한 로그인 구현</a></td>
+      <td><code>react</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/4">우아한 테크코스 1주차 회고</a></td>
+      <td><code>javascript</code></td>
       <td>현호</td>
     </tr>
   </tbody>
