@@ -377,7 +377,6 @@
   </tbody>
 </table>
 
-
 ### 🗞 11월
 <table>
   <thead>
@@ -390,39 +389,34 @@
   </thead>
   <tbody>
     <tr>
-      <th rowspan=7 align="center">1주차<br />(23.10.30 - 23.11.05)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=6 align="center">1주차<br />(23.10.30 - 23.11.05)</th>
+      <td><a href="https://velog.io/@7_06com/JAVA-Enum-%EC%9D%B4%EA%B2%8C-%EB%AD%90%EC%95%BC-%EC%99%9C-%EC%8D%A8">Enum, 상수들의 집합체</a></td>
+      <td><code>java</code><br /><code>enum</code></td>
       <td>동현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-react-native-netinfo">네트워크 정보 확인하기 | @react-native-netinfo</a></td>
+      <td><code>react-native-netinfo</code><br /><code>network</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/mysql-glossary/">MySQL 용어집(Glossary) 살펴보기</a></td>
+      <td><code>database</code><br /><code>mysql</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-Start-2">DDD START! (2)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/576">[Jest] Mocking</a></td>
+      <td><code>jest</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/5">우아한 테크코스 2주차 회고</a></td>
+      <td><code>javascript</code></td>
       <td>현호</td>
     </tr>
     <tr>
@@ -571,4 +565,3 @@
     </tr>
   </tbody>
 </table>
-  
