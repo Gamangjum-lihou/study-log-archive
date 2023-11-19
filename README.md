@@ -420,39 +420,34 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=7 align="center">2주차<br />(23.11.06 - 23.11.12)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=6 align="center">2주차<br />(23.11.06 - 23.11.12)</th>
+      <td><a href="https://velog.io/@7_06com/JAVA-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80%EB%A7%88%EC%9D%B4%EC%A7%95-%ED%95%B4%EB%B3%B4%EC%9E%90">[JAVA] 예외를 커스터마이징 해보자! (aka.예외처리)</a></td>
+      <td><code>java</code><br /><code>예외처리</code></td>
       <td>동현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/spring-security-custom-authentication-diagram/">마음대로 정리해본 Spring Security Custom Authentication 절차 Diagram</a></td>
+      <td><code>spring security</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-START-3">DDD START! (3)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/499">원시타입(Primitive Type)과 객체 타입(Object/Reference Type)</a></td>
+      <td><code>javascript</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/550">S3, CloudFront, Route53을 이용해서 정적 웹 호스팅하기</a></td>
+      <td><code>웹호스팅</code><br /><code>aws</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/6">JSDocs로 TS처럼 JS 사용해보기</a></td>
+      <td><code>javascript</code><br /><code>jsdocs</code></td>
       <td>현호</td>
     </tr>
     <tr>
@@ -565,3 +560,4 @@
     </tr>
   </tbody>
 </table>
+  
