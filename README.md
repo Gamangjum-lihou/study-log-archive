@@ -451,39 +451,38 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=7 align="center">3주차<br />(23.11.13 - 23.11.19)</th>
-      <td></td>
-      <td></td>
-      <td>동현</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <th rowspan=6 align="center">3주차<br />(23.11.13 - 23.11.19)</th>
+      <td><a href="https://velog.io/@qhflrnfl4324/Timeout-Axios">Timeout | Axios</a></td>
+      <td><code>axios</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/what-is-the-diffrence-charset-and-collations-in-mysql/">Character Sets와 Collations의 차이</a></td>
+      <td><code>database</code><br /><code>mysql</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-START-4">DDD START! (4)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/505">배열을 복사하는 여러가지 방법</a></td>
+      <td><code>javascript</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/553">왜 next.js인가?</a></td>
+      <td><code>next.js</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>
+        <a href="https://caffhheiene.vercel.app/posts/detail/7">우아한 테크코스 3주차 회고</a>
+        <br />
+        <a href="https://caffhheiene.vercel.app/posts/detail/8">우아한 테크코스 4주차 회고</a>
+      </td>
+      <td><code>javascript</code></td>
       <td>현호</td>
     </tr>
     <tr>
@@ -560,4 +559,3 @@
     </tr>
   </tbody>
 </table>
-  
