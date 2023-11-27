@@ -33,13 +33,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/706com">
-        <img src="https://avatars.githubusercontent.com/u/104816530" alt="706com" width="120" />
-      </a>
-      <br />
-      <a href="https://github.com/706com">동현</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bori-github">
         <img src="https://avatars.githubusercontent.com/u/85009583" alt="Bori-github" width="120" />
       </a>
@@ -487,38 +480,38 @@
     </tr>
     <tr>
       <th rowspan=7 align="center">4주차<br />(23.11.20 - 23.11.26)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@7_06com/JAVA-SOLID.-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-5%EC%9B%90%EC%B9%99">[JAVA] SOLID. 객체지향 5원칙</a></td>
+      <td><code>java</code><br /><code>solid</code><br /><code>객체지향</code></td>
       <td>동현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Timeout-Network">Timeout | Network</a></td>
+      <td><code>network</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/review-spring-rest-docs/">Spring REST Docs를 사용하지 않기로 결정한 개인적인 이유</a></td>
+      <td><code>spring</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-START-5">DDD START! (5)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/717">싱글톤</a></td>
+      <td><code>javascript</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://hanna-log.tistory.com/554">기술면접 준비</a></td>
+      <td><code>cs</code><br /><code>javascript</code></td>
       <td>한나</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/9">우테코 프리코스 최종결산</a></td>
+      <td><code>javascript</code></td>
       <td>현호</td>
     </tr>
     <tr>
