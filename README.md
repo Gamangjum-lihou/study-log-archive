@@ -515,7 +515,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">5주차<br />(23.12.04 - 23.12.10)</th>
+      <th rowspan=6 align="center">5주차<br />(23.11.27 - 23.12.03)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -561,6 +561,37 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th rowspan=6 align="center">1주차<br />(23.12.04 - 23.12.10)</th>
+      <td></td>
+      <td></td>
+      <td>보리</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>유진</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>철원</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>한나</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>현호</td>
+    </tr>  
     <tr>
       <th rowspan=6 align="center">2주차<br />(23.12.11 - 23.12.17)</th>
       <td></td>
@@ -625,37 +656,6 @@
     </tr>
     <tr>
       <th rowspan=6 align="center">4주차<br />(23.12.25 - 23.12.31)</th>
-      <td></td>
-      <td></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>성국</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>유진</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>현호</td>
-    </tr>
-    <tr>
-      <th rowspan=6 align="center">1주차<br />(23.11.27 - 23.12.03)</th>
       <td></td>
       <td></td>
       <td>보리</td>
