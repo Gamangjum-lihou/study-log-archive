@@ -61,13 +61,6 @@
       <a href="https://github.com/Ryan-Dia">철원</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hannaax">
-        <img src="https://avatars.githubusercontent.com/u/111215320" alt="hannaax" width="120" />
-      </a>
-      <br />
-      <a href="https://github.com/hannaax">한나</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/SWARVY">
         <img src="https://avatars1.githubusercontent.com/u/53262430" alt="SWARVY" width="120" />
       </a>
@@ -122,7 +115,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">2주차<br />(23.09.11 - 23.09.17)</th>
+      <th rowspan=5 align="center">2주차<br />(23.09.11 - 23.09.17)</th>
       <td><a href="https://velog.io/@qhflrnfl4324/Array.length-0-vs-Array-JavaScript">Array.length = 0 vs Array = [] | JavaScript</a></td>
     	<td><code>javascript</code></td>
       <td>보리</td>
@@ -141,11 +134,6 @@
       <td><a href="https://html-jc.tistory.com/708">GitHub Action</a></td>
     	<td><code>git</code></td>
       <td>철원</td>
-    </tr>
-    <tr>
-      <td>-</td>
-    	<td>-</td>
-      <td>한나</td>
     </tr>
     <tr>
       <td><a href="https://swarvy.tistory.com/154">[TS] TS의 퇴출...?</a></td>
@@ -515,34 +503,29 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">5주차<br />(23.11.27 - 23.12.03)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=5 align="center">5주차<br />(23.11.27 - 23.12.03)</th>
+      <td><a href="https://velog.io/@qhflrnfl4324/-webkit-app-region-drag-Electron">-webkit-app-region: drag | Electron</a></td>
+      <td><code>electron</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/sequence-generation-type-for-hibernate-6-and-mysql-8-in-spring-boot/">Spring Boot 에서 Hibernate 6 와 MySQL 8 사용 시 GenerationType.SEQUENCE 설정 방법</a></td>
+      <td><code>jpa</code><br /><code>hibernate</code><br /><code>mysql</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-START-6">DDD START! (6)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/698">Peer Dependencies는 왜 필요하고 사용될까?</a></td>
+      <td><code>node.js</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/10">Next.js 블로그 제작기 (4)</a></td>
+      <td><code>next.js</code><br /><code>seo</code></td>
       <td>현호</td>
     </tr>
   </tbody>
@@ -562,7 +545,7 @@
   </thead>
   <tbody>
     <tr>
-      <th rowspan=6 align="center">1주차<br />(23.12.04 - 23.12.10)</th>
+      <th rowspan=5 align="center">1주차<br />(23.12.04 - 23.12.10)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -581,11 +564,6 @@
       <td></td>
       <td></td>
       <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
     </tr>
     <tr>
       <td></td>
@@ -593,7 +571,7 @@
       <td>현호</td>
     </tr>  
     <tr>
-      <th rowspan=6 align="center">2주차<br />(23.12.11 - 23.12.17)</th>
+      <th rowspan=5 align="center">2주차<br />(23.12.11 - 23.12.17)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -612,11 +590,6 @@
       <td></td>
       <td></td>
       <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
     </tr>
     <tr>
       <td></td>
@@ -624,7 +597,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">3주차<br />(23.12.18 - 23.12.24)</th>
+      <th rowspan=5 align="center">3주차<br />(23.12.18 - 23.12.24)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -643,11 +616,6 @@
       <td></td>
       <td></td>
       <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
     </tr>
     <tr>
       <td></td>
@@ -655,7 +623,7 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=6 align="center">4주차<br />(23.12.25 - 23.12.31)</th>
+      <th rowspan=5 align="center">4주차<br />(23.12.25 - 23.12.31)</th>
       <td></td>
       <td></td>
       <td>보리</td>
@@ -674,11 +642,6 @@
       <td></td>
       <td></td>
       <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
     </tr>
     <tr>
       <td></td>
