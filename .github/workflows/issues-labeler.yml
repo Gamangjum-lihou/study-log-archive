@@ -9,7 +9,7 @@ on:
 # 트리거되었을 때 실행될 job 작성
 jobs:
   issue_commented:
-    if: github.event.comment.user.login == 'Ryan-Dia'||'SWARVY'||'Bori-github'||'limvik'||'hannaax'||'ujin2021'||'706com'
+    if: github.event.comment.user.login == 'Ryan-Dia'||'SWARVY'||'Bori-github'||'limvik'||'ujin2021'
     name: apply-label
     runs-on: ubuntu-latest
     steps:
@@ -23,9 +23,7 @@ jobs:
               'SWARVY': '현호',
               'Bori-github': '보리',
               'limvik': '성국',
-              'hannaax': '한나',
-              'ujin2021': '유진',
-              '706com': '동현'
+              'ujin2021': '유진'
             };
             const userLogin = context.payload.comment.user.login;
             const labelToAdd = userLabelMap[userLogin];
