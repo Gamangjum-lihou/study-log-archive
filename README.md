@@ -545,29 +545,24 @@
   </thead>
   <tbody>
     <tr>
-      <th rowspan=5 align="center">1주차<br />(23.12.04 - 23.12.10)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=4 align="center">1주차<br />(23.12.04 - 23.12.10)</th>
+      <td><a href="https://velog.io/@qhflrnfl4324/Conditional-Types-TypeScript">Conditional Types | TypeScript</a></td>
+      <td><code>typescript</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/how-to-containerize-the-jsp-with-spring-embedded-tomcat/">Spring Embedded Tomcat으로 실행하는 WAR 패키지 컨테이너 만들기</a></td>
+      <td><code>spring</code><br /><code>jsp</code><br /><code>docker</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/DDD-START-6-7zrikpzh">DDD START! (7)</a></td>
+      <td><code>ddd</code><br /><code>architecture</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/11">자바스크립트와 This 바인딩</a></td>
+      <td><code>javascript</code></td>
       <td>현호</td>
     </tr>  
     <tr>
