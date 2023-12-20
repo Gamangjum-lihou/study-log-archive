@@ -567,28 +567,28 @@
     </tr>  
     <tr>
       <th rowspan=5 align="center">2주차<br />(23.12.11 - 23.12.17)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Component-definition-is-missing-display-nameeslintreactdisplay-name-ESLint">Component definition is missing display nameeslintreact/display-name | ESLint</a></td>
+      <td><code>eslint</code><br /><code>react</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/sizing-connection-pool/">Sizing connection pool</a></td>
+      <td><code>database</code><br /><code>hikaricp</code><br /><code>jmeter</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/Object-Mapper%EC%99%80-MapStruct">ObjectMapper와 MapStruct</a></td>
+      <td><code>java</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/503">[Node.Js] Module</a></td>
+      <td><code>node.js</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/12">2023년을 마무리하며</a></td>
+      <td><code>javascript</code><br /><code>typescript</code><br /><code>react</code></td>
       <td>현호</td>
     </tr>
     <tr>
