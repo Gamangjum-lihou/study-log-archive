@@ -593,28 +593,28 @@
     </tr>
     <tr>
       <th rowspan=5 align="center">3주차<br />(23.12.18 - 23.12.24)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Treating-warnings-as-errors-because-process.env.CI-true.-React">Treating warnings as errors because process.env.CI = true. | React</a></td>
+      <td><code>react</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/review-wanted-preonboarding-backend-internship/">원티드 프리온보딩 백엔드 인턴십 후기</a></td>
+      <td><code>etc</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/Java-%EA%B8%B0%EB%B3%B8-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B0%9D%EC%B2%B4">Java 기본 - 클래스, 객체, 배열</a></td>
+      <td><code>java</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/570">상속 vs 조합</a></td>
+      <td><code>javascript</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/13">2023년을 마무리하며 (2)</a></td>
+      <td><code>javascript</code><br /><code>typescript</code></td>
       <td>현호</td>
     </tr>
     <tr>
