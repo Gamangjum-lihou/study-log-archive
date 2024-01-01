@@ -618,29 +618,24 @@
       <td>현호</td>
     </tr>
     <tr>
-      <th rowspan=5 align="center">4주차<br />(23.12.25 - 23.12.31)</th>
-      <td></td>
-      <td></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <th rowspan=4 align="center">4주차<br />(23.12.25 - 23.12.31)</th>
+      <td><a href="https://limvik.github.io/posts/what-is-servlet/">서블릿(Servlet) 이란?</a></td>
+      <td><code>java</code><br /><code>servlet</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/2023-%ED%9A%8C%EA%B3%A0">서블릿(Servlet) 이란?</a></td>
+      <td><code>회고</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/445">캐싱 / 페이지교체 알고리즘</a></td>
+      <td><code>algorithm</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/14">v0로 빠르게 웹 디자인 만들어보기</a></td>
+      <td><code>react</code><br /><code>next.js</code></td>
       <td>현호</td>
     </tr>
   </tbody>
