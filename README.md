@@ -3,7 +3,7 @@
 매주 블로그를 작성하면서 공부한 기록을 남기고, 공유합니다.
 
 🔖 **[Study Log Archive wiki 바로가기](https://github.com/Gamangjum-lihou/study-log-archive/wiki)**
-- 2024 1nd quarter - 진행중
+- 2024 1st quarter - 진행중
 - [2023 2nd season 바로가기](https://github.com/Gamangjum-lihou/study-log-archive/wiki/2023,-2nd-season)
 - [2023 1st season 바로가기](https://github.com/Gamangjum-lihou/study-log-archive/wiki/2023,-1st-season)
 
@@ -109,43 +109,43 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">1주차<br />(24.01.01 - 24.01.07)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/Portal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Modal-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Next.js">Portal을 이용하여 Modal 구현하기 | Next.js</a></td>
+      <td><code>react</code><br /><code>next.js</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/difference-between-lsp-and-polymorphism/">리스코프 치환 원칙과 다형성의 차이점</a></td>
+      <td><code>object-oriented-programming</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://dahliachoi.tistory.com/90">Java 17을 사용하는 이유</a></td>
+      <td><code>java</code></td>
       <td>예지</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://ssonzm.tistory.com/37">예외와 트랜잭션 커밋/롤백</a></td>
+      <td><code>spring</code></td>
       <td>지민</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/719">OSI 7계층</a></td>
+      <td><code>cs</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>한나</td>
+      <td><a href="https://velog.io/@ujin2021/Java-%EA%B8%B0%EB%B3%B8-%EA%B8%B0%EB%B3%B8%ED%98%95%EC%B0%B8%EC%A1%B0%ED%98%95">Java 기본 - 기본형/참조형</a></td>
+      <td><code>java</code></td>
+      <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/15">브라우저의 렌더링 과정</a></td>
+      <td><code>web</code></td>
       <td>현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://friedegg556.tistory.com/379">file, blob 객체의 차이점</a></td>
+      <td><code>web</code><br /><code>javascript</code></td>
       <td>혜정</td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>한나</td>
+      <td>유진</td>
     </tr>
     <tr>
       <td></td>
@@ -218,7 +218,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>한나</td>
+      <td>유진</td>
     </tr>
     <tr>
       <td></td>
@@ -259,7 +259,7 @@
     <tr>
       <td></td>
       <td></td>
-      <td>한나</td>
+      <td>유진</td>
     </tr>
     <tr>
       <td></td>
