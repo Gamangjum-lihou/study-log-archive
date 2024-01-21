@@ -150,43 +150,43 @@
     </tr>
     <tr>
       <th rowspan=8 align="center">2주차<br />(24.01.08 - 24.01.14)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/MUI-v4%EC%97%90%EC%84%9C-v5%EB%A1%9C-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%95%98%EA%B8%B0">MUI v4에서 v5로 버전 업그레이드 하기</a></td>
+      <td><code>library</code><br /><code>mui</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/reduce-container-image-size-for-spring-boot-with-jdeps-and-jlink/">jdeps와 jlink를 통한 Spring Boot 컨테이너 이미지 사이즈 경량화</a></td>
+      <td><code>java</code><br /><code>spring</code><br /><code>docker</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://dahliachoi.tistory.com/91">DB 정규화란?</a></td>
+      <td><code>데이터베이스</code></td>
       <td>예지</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://ssonzm.tistory.com/39">[프로그래머스] 파일명 정렬 : JAVA</a></td>
+      <td><code>algorithm</code></td>
       <td>지민</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/720">DNS / 웹 통신 흐름</a></td>
+      <td><code>cs</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/Java-%EC%B5%9C%EC%A0%81%ED%99%94-Chapter-1">Java 최적화 - Chapter 1</a></td>
+      <td><code>java</code><br /><code>최적화</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/16">자바스크립트의 런타임</a></td>
+      <td><code>web</code><br /><code>javascript</code></td>
       <td>현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://friedegg556.tistory.com/382">[Node.js] Node란 무엇이냐..이벤트 루프란..?</a></td>
+      <td><code>node.js</code></td>
       <td>혜정</td>
     </tr>
     <tr>
