@@ -191,43 +191,43 @@
     </tr>
     <tr>
       <th rowspan=8 align="center">3주차<br />(24.01.15 - 24.01.21)</th>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@qhflrnfl4324/useSession.update%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-Next-Auth">useSession.update를 이용한 사용자 정보 수정하기 | Next Auth</a></td>
+      <td><code>next-auth</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://limvik.github.io/posts/api-gateway/">API Gateway</a></td>
+      <td><code>cloud native</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://dahliachoi.tistory.com/93">[DB] 교착상태(Dead Lock)란?</a></td>
+      <td><code>db</code></td>
       <td>예지</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://ssonzm.tistory.com/45">MVC, MVP, MVVM 비교</a></td>
+      <td><code>디자인 패턴</code></td>
       <td>지민</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/721">로드 밸런싱</a></td>
+      <td><code>cs</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/Java%EC%B5%9C%EC%A0%81%ED%99%94-Chapter-2-3">Java최적화 - Chapter2</a></td>
+      <td><code>java</code><br /><code>최적화</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/17">Next.js 블로그 제작기 (5)</a></td>
+      <td><code>next.js</code><br /><code>typescript</code></td>
       <td>현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://friedegg556.tistory.com/383">[Electron.js] 일렉트론에 대해서 알아보자!</a></td>
+      <td><code>electon.js</code></td>
       <td>혜정</td>
     </tr>
     <tr>
