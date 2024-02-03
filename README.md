@@ -231,44 +231,39 @@
       <td>혜정</td>
     </tr>
     <tr>
-      <th rowspan=8 align="center">4주차<br />(24.01.22 - 24.01.28)</th>
-      <td></td>
-      <td></td>
+      <th rowspan=7 align="center">4주차<br />(24.01.22 - 24.01.28)</th>
+      <td><a href="https://velog.io/@qhflrnfl4324/Redux-with-Vanilla-JavaScript">Redux with Vanilla JavaScript</a></td>
+      <td><code>redux</code></td>
       <td>보리</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td>성국</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://dahliachoi.tistory.com/94">[네트워크] TCP의 신뢰성 보장</a></td>
+      <td><code>network</code></td>
       <td>예지</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://ssonzm.tistory.com/47">Spring Security 로그인 동작 원리</a></td>
+      <td><code>spring</code><br /><code>spring sequrity</code></td>
       <td>지민</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://html-jc.tistory.com/722">쿠키와 세션</a></td>
+      <td><code>cs</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://velog.io/@ujin2021/Java-%EC%B5%9C%EC%A0%81%ED%99%94-Chapter3">Java 최적화 - Chapter3</a></td>
+      <td><code>java</code><br /><cod>최적화</cod></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/18">매크로태스크 큐와 마이크로태스크 큐</a></td>
+      <td><code>javascript</code><br /><code>web</code></td>
       <td>현호</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td><a href="https://friedegg556.tistory.com/382">[Node.js] Streams 에 대해서 알아봐요.</a></td>
+      <td><code>node.js</code></td>
       <td>혜정</td>
     </tr>
   </tbody>
