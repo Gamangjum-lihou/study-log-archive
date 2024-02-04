@@ -34,11 +34,11 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Bori-github">
-        <img src="https://avatars.githubusercontent.com/u/85009583" alt="Bori-github" width="120" />
+      <a href="">
+        <img src="" alt="" width="120" />
       </a>
       <br />
-      <a href="https://github.com/Bori-github">보리</a>
+      <a href=""></a>
     </td>
     <td align="center">
       <a href="https://github.com/limvik">
