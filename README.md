@@ -96,7 +96,7 @@
 
 <br />
 
-### 🗞 01월
+### 🗞 02월
 <table>
   <thead>
     <tr>
@@ -108,163 +108,40 @@
   </thead>
   <tbody>
     <tr>
-      <th rowspan=8 align="center">1주차<br />(24.01.01 - 24.01.07)</th>
-      <td><a href="https://velog.io/@qhflrnfl4324/Portal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Modal-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Next.js">Portal을 이용하여 Modal 구현하기 | Next.js</a></td>
-      <td><code>react</code><br /><code>next.js</code></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td><a href="https://limvik.github.io/posts/difference-between-lsp-and-polymorphism/">리스코프 치환 원칙과 다형성의 차이점</a></td>
-      <td><code>object-oriented-programming</code></td>
+      <th rowspan=8 align="center">1주차<br />(24.01.29 - 24.02.04)</th>
+      <td><a href="https://limvik.github.io/posts/intro-to-graphs/">Intro to Graphs</a></td>
+      <td><code>algorithms</code></td>
       <td>성국</td>
     </tr>
     <tr>
-      <td><a href="https://dahliachoi.tistory.com/90">Java 17을 사용하는 이유</a></td>
-      <td><code>java</code></td>
+      <td><a href="https://dahliachoi.tistory.com/97">퀵정렬(Quick-Sort) 알고리즘</a></td>
+      <td><code>알고리즘</code></td>
       <td>예지</td>
     </tr>
     <tr>
-      <td><a href="https://ssonzm.tistory.com/37">예외와 트랜잭션 커밋/롤백</a></td>
-      <td><code>spring</code></td>
+      <td><a href="https://ssonzm.tistory.com/48">자바 람다, 스트림</a></td>
+      <td><code>Java</code></td>
       <td>지민</td>
     </tr>
     <tr>
-      <td><a href="https://html-jc.tistory.com/719">OSI 7계층</a></td>
+      <td><a href="https://html-jc.tistory.com/723">CORS</a></td>
       <td><code>cs</code></td>
       <td>철원</td>
     </tr>
     <tr>
-      <td><a href="https://velog.io/@ujin2021/Java-%EA%B8%B0%EB%B3%B8-%EA%B8%B0%EB%B3%B8%ED%98%95%EC%B0%B8%EC%A1%B0%ED%98%95">Java 기본 - 기본형/참조형</a></td>
+      <td><a href="https://velog.io/@ujin2021/Java-%EC%B5%9C%EC%A0%81%ED%99%94-Chapter4">Java 최적화 - Chapter4</a></td>
       <td><code>java</code></td>
       <td>유진</td>
     </tr>
     <tr>
-      <td><a href="https://caffhheiene.vercel.app/posts/detail/15">브라우저의 렌더링 과정</a></td>
-      <td><code>web</code></td>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/20">Next.js 블로그 제작기 (6)</a></td>
+      <td><code>nextjs</code></td>
       <td>현호</td>
     </tr>
     <tr>
-      <td><a href="https://friedegg556.tistory.com/379">file, blob 객체의 차이점</a></td>
-      <td><code>web</code><br /><code>javascript</code></td>
+      <td><a href="https://friedegg556.tistory.com/386">Node.js 의 require module</a></td>
+      <td><code>web</code><br /><code>Node.js</code></td>
       <td>혜정</td>
     </tr>
-    <tr>
-      <th rowspan=8 align="center">2주차<br />(24.01.08 - 24.01.14)</th>
-      <td><a href="https://velog.io/@qhflrnfl4324/MUI-v4%EC%97%90%EC%84%9C-v5%EB%A1%9C-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%95%98%EA%B8%B0">MUI v4에서 v5로 버전 업그레이드 하기</a></td>
-      <td><code>library</code><br /><code>mui</code></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td><a href="https://limvik.github.io/posts/reduce-container-image-size-for-spring-boot-with-jdeps-and-jlink/">jdeps와 jlink를 통한 Spring Boot 컨테이너 이미지 사이즈 경량화</a></td>
-      <td><code>java</code><br /><code>spring</code><br /><code>docker</code></td>
-      <td>성국</td>
-    </tr>
-    <tr>
-      <td><a href="https://dahliachoi.tistory.com/91">DB 정규화란?</a></td>
-      <td><code>데이터베이스</code></td>
-      <td>예지</td>
-    </tr>
-    <tr>
-      <td><a href="https://ssonzm.tistory.com/39">[프로그래머스] 파일명 정렬 : JAVA</a></td>
-      <td><code>algorithm</code></td>
-      <td>지민</td>
-    </tr>
-    <tr>
-      <td><a href="https://html-jc.tistory.com/720">DNS / 웹 통신 흐름</a></td>
-      <td><code>cs</code></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td><a href="https://velog.io/@ujin2021/Java-%EC%B5%9C%EC%A0%81%ED%99%94-Chapter-1">Java 최적화 - Chapter 1</a></td>
-      <td><code>java</code><br /><code>최적화</code></td>
-      <td>유진</td>
-    </tr>
-    <tr>
-      <td><a href="https://caffhheiene.vercel.app/posts/detail/16">자바스크립트의 런타임</a></td>
-      <td><code>web</code><br /><code>javascript</code></td>
-      <td>현호</td>
-    </tr>
-    <tr>
-      <td><a href="https://friedegg556.tistory.com/382">[Node.js] Node란 무엇이냐..이벤트 루프란..?</a></td>
-      <td><code>node.js</code></td>
-      <td>혜정</td>
-    </tr>
-    <tr>
-      <th rowspan=8 align="center">3주차<br />(24.01.15 - 24.01.21)</th>
-      <td><a href="https://velog.io/@qhflrnfl4324/useSession.update%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0-Next-Auth">useSession.update를 이용한 사용자 정보 수정하기 | Next Auth</a></td>
-      <td><code>next-auth</code></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td><a href="https://limvik.github.io/posts/api-gateway/">API Gateway</a></td>
-      <td><code>cloud native</code></td>
-      <td>성국</td>
-    </tr>
-    <tr>
-      <td><a href="https://dahliachoi.tistory.com/93">[DB] 교착상태(Dead Lock)란?</a></td>
-      <td><code>db</code></td>
-      <td>예지</td>
-    </tr>
-    <tr>
-      <td><a href="https://ssonzm.tistory.com/45">MVC, MVP, MVVM 비교</a></td>
-      <td><code>디자인 패턴</code></td>
-      <td>지민</td>
-    </tr>
-    <tr>
-      <td><a href="https://html-jc.tistory.com/721">로드 밸런싱</a></td>
-      <td><code>cs</code></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td><a href="https://velog.io/@ujin2021/Java%EC%B5%9C%EC%A0%81%ED%99%94-Chapter-2-3">Java최적화 - Chapter2</a></td>
-      <td><code>java</code><br /><code>최적화</code></td>
-      <td>유진</td>
-    </tr>
-    <tr>
-      <td><a href="https://caffhheiene.vercel.app/posts/detail/17">Next.js 블로그 제작기 (5)</a></td>
-      <td><code>next.js</code><br /><code>typescript</code></td>
-      <td>현호</td>
-    </tr>
-    <tr>
-      <td><a href="https://friedegg556.tistory.com/383">[Electron.js] 일렉트론에 대해서 알아보자!</a></td>
-      <td><code>electon.js</code></td>
-      <td>혜정</td>
-    </tr>
-    <tr>
-      <th rowspan=7 align="center">4주차<br />(24.01.22 - 24.01.28)</th>
-      <td><a href="https://velog.io/@qhflrnfl4324/Redux-with-Vanilla-JavaScript">Redux with Vanilla JavaScript</a></td>
-      <td><code>redux</code></td>
-      <td>보리</td>
-    </tr>
-    <tr>
-      <td><a href="https://dahliachoi.tistory.com/94">[네트워크] TCP의 신뢰성 보장</a></td>
-      <td><code>network</code></td>
-      <td>예지</td>
-    </tr>
-    <tr>
-      <td><a href="https://ssonzm.tistory.com/47">Spring Security 로그인 동작 원리</a></td>
-      <td><code>spring</code><br /><code>spring sequrity</code></td>
-      <td>지민</td>
-    </tr>
-    <tr>
-      <td><a href="https://html-jc.tistory.com/722">쿠키와 세션</a></td>
-      <td><code>cs</code></td>
-      <td>철원</td>
-    </tr>
-    <tr>
-      <td><a href="https://velog.io/@ujin2021/Java-%EC%B5%9C%EC%A0%81%ED%99%94-Chapter3">Java 최적화 - Chapter3</a></td>
-      <td><code>java</code><br /><cod>최적화</cod></td>
-      <td>유진</td>
-    </tr>
-    <tr>
-      <td><a href="https://caffhheiene.vercel.app/posts/detail/18">매크로태스크 큐와 마이크로태스크 큐</a></td>
-      <td><code>javascript</code><br /><code>web</code></td>
-      <td>현호</td>
-    </tr>
-    <tr>
-      <td><a href="https://friedegg556.tistory.com/382">[Node.js] Streams 에 대해서 알아봐요.</a></td>
-      <td><code>node.js</code></td>
-      <td>혜정</td>
-    </tr>
-  </tbody>
+ 
 </table>
