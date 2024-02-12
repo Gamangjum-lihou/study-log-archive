@@ -143,5 +143,23 @@
       <td><code>web</code><br /><code>Node.js</code></td>
       <td>혜정</td>
     </tr>
- 
+</tbody>
+    <tbody>
+    <tr>
+      <th rowspan=8 align="center">2주차<br />(24.02.05 - 24.02.11)</th>
+      <td><a href="https://limvik.github.io/posts/youtube-common-spring-developer-mistakes/">Youtube 요약 - Spring 개발자의 흔한 실수</a></td>
+      <td><code>spring</code></td>
+      <td>성국</td>
+    </tr>
+    <tr>
+      <td><a href="https://ssonzm.tistory.com/50">최단 경로 알고리즘 비교</a></td>
+      <td><code>algorithms</code></td>
+      <td>지민</td>
+    </tr>
+    <tr>
+      <td><a href="https://caffhheiene.vercel.app/posts/detail/21">Next.js 블로그 제작기 (7)</a></td>
+      <td><code>nextjs</code></td>
+      <td>현호</td>
+    </tr>
+</tbody>
 </table>
